@@ -33,4 +33,5 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 
-script_example/
+
+analize_sales/
